@@ -1,0 +1,5 @@
+rootProject.name = 'endproject'
+include 'hans-api'
+include 'hans-batch'
+include 'hans-core'
+
